@@ -1,4 +1,4 @@
-i#!bin/bash
+#!/bin/bash
 #                 COLORES ALTOS
 negro="\e[1;30m"
 azul="\e[1;34m"
