@@ -18,7 +18,7 @@ mediante su dirrección IP.
 * `bash BassetTracker.sh`
 
 * `Listo, Disfruta :D`
-# Código Open Source
+# Open Source
 
 ----
 Si tienes dudas, problemas o criticas házmelo saber 
