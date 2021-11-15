@@ -24,7 +24,7 @@ mediante su dirrección IP.
 Si tienes dudas, problemas o criticas házmelo saber 
 Con gusto te responderé </br>
 </br>
-[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/UserM01000)
+[![testers](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg)](https://t.me/HackForAll1)
 ----
 ![Imagen text](https://github.com/UserM01000/BassetTracker/blob/main/20211102_004356.jpg)
 <!---->
